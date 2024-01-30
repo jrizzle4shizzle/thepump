@@ -4,7 +4,7 @@ MarkupSafe==0.23
 Pillow==9.3.0
 PyPDF2==1.27.9
 Werkzeug==2.2.3
-gunicorn==19.1.1
+gunicorn==19.5.0
 itsdangerous==0.24
 pymongo==2.7.2
 reportlab==3.6.13
